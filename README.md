@@ -1,3 +1,9 @@
+Frontend of the angular application for some specific cities
+![noida](https://github.com/abhishek090802/WeatherApp/assets/96616951/69f1ff2c-7087-42a6-add0-291a14d98ba5)
+
+![new york](https://github.com/abhishek090802/WeatherApp/assets/96616951/2241fe6c-5cc3-4c87-9143-6d1c13b232ee)
+
+
 # Weather
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.11.
