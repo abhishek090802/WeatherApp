@@ -1,6 +1,10 @@
-Frontend of the angular web application for some cities->
-![hvsdvvdjvv](https://github.com/abhishek090802/WeatherApp/assets/96616951/fe6c6879-0cd7-48b3-bcb8-27d8ceb60e9b)
-![bccjbcjs](https://github.com/abhishek090802/WeatherApp/assets/96616951/941ffdc0-0069-4d85-8c77-664292c9c06e)
+Frontend view of the application for some of the cities->
+
+New york:
+![bccjbcjs](https://github.com/abhishek090802/WeatherApp/assets/96616951/8f4dcf3d-5ce9-4cc4-b655-3040884633a6)
+
+New Delhi:
+![hvsdvvdjvv](https://github.com/abhishek090802/WeatherApp/assets/96616951/7c781164-4139-4f52-bc98-6f011006f797)
 
 Procedure:
 Step-1:Featch the weather credentials from the rapid api(Open weather api) for the country speceific details more specifically temperature,Humidity and wind speed.
