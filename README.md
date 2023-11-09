@@ -1,7 +1,5 @@
 Frontend of the angular application for some specific cities
-![noida](https://github.com/abhishek090802/WeatherApp/assets/96616951/69f1ff2c-7087-42a6-add0-291a14d98ba5)
-
-![new york](https://github.com/abhishek090802/WeatherApp/assets/96616951/2241fe6c-5cc3-4c87-9143-6d1c13b232ee)
+![bdjbjbd](https://github.com/abhishek090802/WeatherApp/assets/96616951/eb7ef770-9ad1-4d68-bb89-5206f4f0f5d1)
 
 
 # Weather
