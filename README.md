@@ -1,3 +1,30 @@
+Procedure:
+Step-1:Featch the weather credentials from the rapid api(Open weather api) for the country speceific details more specifically temperature,Humidity and wind speed.
+
+Prerequisites:
+
+a)Node.js and NPM: Make sure that you have Node.js and npm installed prior 
+
+b)Angular  CLI:Install the Angular CLI globally in your local system 
+
+Command for installing Angular CLI: npm install -g @angular/cli
+
+Step1: create an angular project folder in your local system 
+Command: ng new angularapp
+
+Step2:To fetch the weather details we will use the openweather api sign in for the free account. Once registered obtain an pi key which aare used when you make api requests 
+
+Step3:Create Weather service logic in your angular application to encapsulate the logic of weather services fetched from the OpenWeather API.
+
+Step4:Update the app component and its respected css files in systematic way 
+
+Step5:Once you are done with all the coding part run the following command in your terminal to start the development server to view the weather app in your browser 
+
+Command: ng serve 
+
+After the code being executed your application will run on the http://localhost:4200/ in your local system 
+
+
 
 # Weather
 
