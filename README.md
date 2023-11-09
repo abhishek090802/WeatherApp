@@ -1,11 +1,3 @@
-Frontend of the angular weather web application for some user defined cities->
-
-New Delhi:
-![hvsdvvdjvv](https://github.com/abhishek090802/WeatherApp/assets/96616951/19fa6344-b43a-4b44-a6c4-795c51818543)
-
-New York:
-![bccjbcjs](https://github.com/abhishek090802/WeatherApp/assets/96616951/1b67bb6f-d5da-4720-ad49-2f1e660b071f)
-
 
 # Weather
 
