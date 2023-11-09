@@ -1,4 +1,5 @@
 Procedure:
+
 Step-1:Featch the weather credentials from the rapid api(Open weather api) for the country speceific details more specifically temperature,Humidity and wind speed.
 
 Prerequisites:
