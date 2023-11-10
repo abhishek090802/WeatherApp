@@ -1,3 +1,7 @@
+![hvsdvvdjvv](https://github.com/abhishek090802/WeatherApp/assets/96616951/3fcfb5be-9f3f-4e3d-aee9-6bb7d065b257)
+
+![bccjbcjs](https://github.com/abhishek090802/WeatherApp/assets/96616951/d22b3903-adc2-4496-863b-141be3d65134)
+
 Procedure:
 
 Step-1:Featch the weather credentials from the rapid api(Open weather api) for the country speceific details more specifically temperature,Humidity and wind speed.
